@@ -1,1 +1,0 @@
-# TriviaApi1.0
